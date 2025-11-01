@@ -11,6 +11,7 @@ I am a Game Developer, Programmer, and Audio Engineer.
 
 ## Quadrasic
 I have published a small game for PICO-8 on the BBS forums.
+All music, art, and programming for this game was done by me!
 You can play it here!
 
 <iframe src="https://www.lexaloffle.com/bbs/widget.php?pid=quadrastic" allowfullscreen width="621" height="513" style="border:none; overflow:hidden"></iframe>
