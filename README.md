@@ -21,7 +21,7 @@ I am currently in the process of developing a game called Social Spiral.
 
 The main parts of the game I worked on was the player movement, player attack, and sound-fx and audio mixing for the game.
 
-you can play a vertical slice of the game Here! <link>https://seanpiatt.itch.io/social-spiral</link>
+you can play a vertical slice of the game <a href="https://seanpiatt.itch.io/social-spiral">Here!</a>
 
 Disclaimer: This game is in the early stages of development, and is unpolished. Everything you see may be subject to change.
 
